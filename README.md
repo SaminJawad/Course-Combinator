@@ -27,19 +27,6 @@ Manually cross-referencing a 100+ page faculty list to find a schedule that does
 - **Search-as-you-type course picker** - quickly find and select courses from the parsed list.
 - **Paginated results** - browse every valid combination (not just the top-ranked ones), five at a time, each with its own expandable calendar and download button.
 
-## Getting started
-
-**Try it instantly:** [course-combinator.netlify.app](https://course-combinator.netlify.app) — no setup required.
-
-Or run it locally:
-
-1. Download `index.html` (or clone this repo).
-2. Open it in any modern browser (Chrome, Firefox, Edge, Safari), or host it as a static file.
-3. Upload your faculty/section-list PDF.
-4. Search and select the courses you want to take.
-5. Browse the ranked, clash-free combinations, view any of them as a calendar, and download the ones you like.
-
-No build step, no installation, no backend.
 
 ## How it works
 
